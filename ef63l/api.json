@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "http://104.199.215.124/cm-14.1-20161111-NIGHTLY-ef63l.zip",
+    "timestamp": "1478843255",
+    "api_level": "25",
+    "md5sum": "5815e307c9fd050111d6a821426c2271",
+    "filename": "cm-14.1-20161111-NIGHTLY-ef63l.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}
