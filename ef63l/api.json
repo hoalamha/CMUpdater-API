@@ -1,7 +1,17 @@
 {
  "id": null,
- "result": [
-     {
+  "result": [
+    {
+    "url": "https://onedrive.live.com/download?cid=5274E94C7E68F815&resid=5274E94C7E68F815%213139&authkey=ADSI2EpfNAJyuPw",
+    "timestamp": "1480164476",
+    "api_level": "25",
+    "md5sum": "1481fd9c88dafde4b955e43958f88613",
+    "filename": "cm-14.1-20161126-NIGHTLY-ef63l.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
     "url": "https://onedrive.live.com/download?cid=5274E94C7E68F815&resid=5274E94C7E68F815%213138&authkey=APPfSrVUKYnUxM0",
     "timestamp": "1479562942",
     "api_level": "25",
