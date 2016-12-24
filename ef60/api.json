@@ -1,0 +1,15 @@
+{
+ "id": null,
+  "result": [
+    {
+    "url": "http://ota.tekcafe.vn/ota/ef60/cm-14.1-20161224-NIGHTLY-ef60.zip",
+    "timestamp": "0",
+    "api_level": "25",
+    "md5sum": "0ea51aa961a3e96accc7e3c6d6694b37",
+    "filename": "cm-14.1-20161224-NIGHTLY-ef60.zip ",
+    "channel": "NIGHTLY",
+    "changes": "Update source",
+    "incremental": ""
+    },
+ "error": null
+}
